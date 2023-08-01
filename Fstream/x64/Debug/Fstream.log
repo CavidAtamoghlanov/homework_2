@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\C++ OOP\Fstream\Fstream\models.h(52,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\C++ OOP\Fstream\Fstream\models.h(182,13): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\C++ OOP\Fstream\Fstream\start.h(24,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Fstream.vcxproj -> C:\Users\User\source\repos\C++ OOP\Fstream\x64\Debug\Fstream.exe
